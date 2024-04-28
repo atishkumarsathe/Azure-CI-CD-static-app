@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>MLOps and LLOPs</h1>
+    <h1>MLOps and LLOPs with Sarathkumar</h1>
 	<h2>Upload your data to make to get Gen AI predictions</h2>
     <img
       alt="Vue logo"
